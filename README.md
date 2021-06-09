@@ -8,3 +8,9 @@ idk if something ever happens I wanna make sure stuff like this doesn't get lost
 # CAN I USE THIS?
 Sure! but if you fork this repository or copy the code of it, please give me credit, or else...
 (ok that was a joke but if you use my code or fork my repository without substantial credit I am entitled to take action, this is my work and if you misuse it you'll have to delete the parts with my code included)
+
+# NOTICES
+This is for Heroku, See a tutorial on how to put a python script onto heroku!
+Actually here's one for you!
+(INSERT VIDEO HERE)
+This program is against the discord Terms of Service, use at your own risk!
