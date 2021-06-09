@@ -1,5 +1,6 @@
 # WHAT IS THIS?
-Autopassive was originally a personal project, I had a time cooldown for a discord bot and when I could claim my prizes was at 3AM, I wasn't going to wait it so I made this application
+MochiMessasges
+was originally a personal project, I had a time cooldown for a discord bot and when I could claim my prizes was at 3AM, I wasn't going to wait it so I made this application
 
 # WHY ARE YOU PUTTING IT HERE NOW?
 idk if something ever happens I wanna make sure stuff like this doesn't get lost due time
