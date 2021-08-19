@@ -1,8 +1,9 @@
 # WHAT IS THIS?
 MochiMessasges
-was originally a personal project, I had a time cooldown for a discord bot and when I could claim my prizes was at 3AM, I wasn't going to wait it so I made this application
+was originally a personal project, I had a time cooldown for a discord bot and when I could claim my prizes was at 3AM, I couldn't stay awake, so I got someone else to do it for me!
 
 # WHEN ARE YOU UPDATING THIS?
+### I AM BACK, I AM NOW WORKING ON THIS PROJECT CONTINOUSLY, SORRY THAT I HAVE BEEN GONE, PLEASE DISREGARD THE REST OF THIS PARAGRAPH
 Unfortunately, I have no use for this now, but if I ever have a situation in the future where I need to use this, that's the only time I can think of an update coming through!
 <br>
 *But,* **If you'd like more features**, make an issue and tell me about what you want to be added
